@@ -1,4 +1,6 @@
 # GitHub public roadmap
+![immagine](https://user-images.githubusercontent.com/56889513/117021778-ee4f3500-acf7-11eb-9b71-fdfabba50510.png)
+
 
 In this repository, you can find the [official GitHub public product roadmap](https://github.com/github/roadmap/projects/1). Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? Join the discussion over on the [GitHub Community Forum](https://github.community/) or share your feedback via the [Share feedback](https://support.github.com/contact/feedback) page. 
 
